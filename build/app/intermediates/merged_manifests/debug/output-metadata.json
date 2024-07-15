@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.meals",
+  "applicationId": "com.example.flutter_application_dice",
   "variantName": "debug",
   "elements": [
     {

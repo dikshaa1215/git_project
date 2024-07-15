@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.meals.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.flutter_application_dice.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hp\\Desktop\\Fltr_Apps\\meals\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\anird\\OneDrive\\Documents\\FlutterDocs\\FlutterDocu\\flutter_dice\\flutter_application_dice\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -1,4 +1,4 @@
-com.example.meals
+com.example.flutter_application_dice
 attr activityAction
 attr activityName
 attr alpha

@@ -1,6 +1,6 @@
 {
-    "name": "meals",
-    "short_name": "meals",
+    "name": "flutter_application_dice",
+    "short_name": "flutter_application_dice",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
